@@ -22,7 +22,65 @@ header img{
 	border: 10px solid #E0E0EB;
 }
 
+h2{
+	font-size: 40px;
+	font-variant: small-caps;
+	letter-spacing: 2px;
+}
+
+p{
+	font-size: 20px;
+	letter-spacing: 1px;
+}
+
+ol{
+	font-size: 20px;
+	letter-spacing: 1px;
+}
+
 .content{
 	max-width: 900px;
 	margin: 0 auto;
+	padding: 0 20px;
 }
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 10;
+	margin: 0;
+	font-size: 20px;
+	letter-spacing: 1px;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #E0E0EB;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+
+
+
