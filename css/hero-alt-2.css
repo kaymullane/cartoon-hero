@@ -1,0 +1,99 @@
+html, body{
+	font-family: "Economica", sans-serif; 
+	margin: 0;
+	background-color: #EFCEDE;
+}
+
+header{
+	background-color: solid #EFCEDE;
+	background-image: url('../img/profile-background-alt-2.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 30px;
+	text-align: center;
+}
+
+h1{
+	font-size: 60px;
+	color: black;
+	text-shadow: 2px 2px #EFCEDE;
+	letter-spacing: 2px;
+}
+
+header img{
+	width: 450px;
+	border: 8px double #EFCEDE;
+}
+
+h2{
+	font-size: 40px;
+	font-variant: small-caps;
+	letter-spacing: 2px;
+}
+
+p{
+	font-size: 18px;
+	font-family: "Garamond Pro", serif;
+	letter-spacing: 1px;
+}
+
+ol{
+	font-size: 18px;
+	font-family: "Garamond Pro", serif;
+	letter-spacing: 1px;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+	padding-top: 30px;
+}
+
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 10;
+	margin: 0;
+	font-size: 20px;
+	letter-spacing: 1px;
+}
+
+a{
+	color: black;
+	font-size: 18px;
+	font-family: "Garamond Pro", serif;
+	text-decoration: none;
+}
+a:hover{
+	background-color: #E0E0EB;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #E0E0EB;
+}
+
+footer ul{
+	text-align: center;
+	font-size: 18px;
+	font-family: "Garamond Pro", serif;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+
+
+
